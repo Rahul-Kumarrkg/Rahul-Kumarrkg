@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and Web DEvelopment.
 - 🌱 I’m currently learning Python and PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rahullumarrkg02@gmail.com
+- 📫 How to reach me rahulkumarrkg02@gmail.com
 - 😄 Pronouns: Rockstar
 - ⚡ Fun fact: ...
 
