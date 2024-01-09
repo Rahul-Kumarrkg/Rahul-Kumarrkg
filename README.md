@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rahul-Kumarrkg
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python and PHP
+- 👋 Hi, I’m @Rahul-Kumar
+- 👀 I’m interested in coding and Web DEvelopment.
+- 🌱 I’m currently learning Python and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahullumarrkg02@gmail.com
 - 😄 Pronouns: Rockstar
