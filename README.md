@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.gifer.com/Ry6p.gif" alt="coding" width="400px" align="right"
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" width="400px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-kumarrkg&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-kumarrkg" /> </p>
 
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-kumarrkg&show_icons=true&locale=en" alt="rahul-kumarrkg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-kumarrkg&" alt="rahul-kumarrkg" /></p>
+
